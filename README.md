@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @analyzethis1
-- 👀 I’m interested in ... Data Analytics, Data Visualization and Business Intelligence
-- 🌱 I’m currently learning ... SQL and Python
-- 💞️ I’m looking to collaborate on ... anything, really!
-- 📫 How to reach me ... smoke signals 
+- 👀 I’m interested in ... Machine Learning and Data Science!
+- 🌱 I’m currently learning ... Advanced ML techniques!
+- 💞️ I’m looking to collaborate on ... training models to improve effeciency and save costs!
+- 📫 How to reach me ... smoke signals! (Unless you work with me, best of luck finding me on LinkedIn!) 
 
 <!---
 analyzethis1/analyzethis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
