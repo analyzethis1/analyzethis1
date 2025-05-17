@@ -1,4 +1,4 @@
-Hey there! I'm a passionate machine learning enthusiast, data scientist and vibe coder with a focus on time-series forecasting and predictive modeling. My work blends cutting-edge machine learning with practical DevOps skills to create scalable, impactful solutions. Whether it's predicting energy usage or optimizing equipment maintenance, I aim to turn data into actionable insights.
+Hello!👋🏼 I'm a passionate AI/ML engineer, data scientist and vibe coder with a focus on time-series forecasting and predictive modeling. My work blends cutting-edge machine learning with practical DevOps skills to create scalable, impactful solutions. Whether it's predicting energy usage or optimizing equipment maintenance, I aim to turn data into actionable insights.
 
 ## Current Projects
 🔹 ML-Project-1: A full-stack machine learning project for real-time energy forecasting and predictive maintenance. This project leverages LightGBM for energy consumption prediction and LSTM for equipment degradation modeling, integrating these models for comprehensive, real-time asset management.
