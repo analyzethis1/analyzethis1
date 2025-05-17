@@ -6,16 +6,16 @@ Hey there! I'm a passionate machine learning enthusiast, data scientist and vibe
 🔹 Kubernetes and Docker Home Lab: Experimenting with container orchestration, networking, and automation to sharpen my DevOps skills and streamline my project workflows.
 
 ## Key Skills
-Machine Learning: Time Series Forecasting, Anomaly Detection, Predictive Maintenance
-Programming: Python, Bash
-DevOps: Docker, Kubernetes, CI/CD, Apple Silicon Optimization
-Visualization: Streamlit, Matplotlib, Plotly
-Data Science Tools: Pandas, NumPy, scikit-learn, TensorFlow
+- **Machine Learning:** Time Series Forecasting, Anomaly Detection, Predictive Maintenance  
+- **Programming:** Python, Bash  
+- **DevOps:** Docker, Kubernetes, CI/CD, Apple Silicon Optimization  
+- **Visualization:** Streamlit, Matplotlib, Plotly  
+- **Data Science Tools:** Pandas, NumPy, scikit-learn, TensorFlow  
 
 ## Goals
-📚 Deepen my expertise in time series analysis and MLOps
-🖥️ Build scalable, real-time data solutions
-💻 Contribute to open-source projects that push the boundaries of AI
+- 📚 Deepen my expertise in time series analysis and MLOps
+- 🖥️ Build scalable, real-time data solutions
+- 💻 Contribute to open-source projects that push the boundaries of AI
 
 
 <!---
