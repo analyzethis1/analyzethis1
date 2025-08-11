@@ -12,7 +12,7 @@ I specialize in:
 ## 🔥 Current & Featured Projects
 
 ### 💎 [Opal](https://github.com/analyzethis1/Opal)  
-**An AI-powered, client-side charting engine for Apple Business Operations**  
+**An AI-powered, client-side charting engine for Business Operations**  
 - Converts CSV/Excel into Apple-level, presentation-ready charts via drag-and-drop
 - Features **Smart Chart Suggestions** with live previews, optimal chart recommendations, and auto-generated titles
 - Multi-series visualizations, advanced filters, PDF/PNG export, and a 16-color opal-inspired palette
