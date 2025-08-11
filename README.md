@@ -18,13 +18,13 @@ I specialize in:
 - Multi-series visualizations, advanced filters, PDF/PNG export, and a 16-color opal-inspired palette
 - Built with React + TypeScript and Chart.js, fully browser-based for maximum privacy
 
-### ❄️ [Snowflake MCP Server](https://github.com/YOUR_USERNAME/snowflake-mcp-server)  
+### ❄️ [Snowflake MCP Server](https://github.com/analyzethis1/Snowflake_MCP)  
 **AI-powered data exploration for Snowflake**  
 - Natural language to SQL queries via conversational UI  
 - Built with **Streamlit**, with schema explorer, performance analytics, and mock demo mode  
 - One-click deployment, fully tested, and ready for LLM integration
 
-### 🔹 PropertyPulse  
+### 🔹 [PropertyPulse](https://github.com/analyzethis1/PropertyPulse)
 A full-stack ML system for **real-time energy forecasting** and **equipment maintenance prediction**  
 - Uses **LightGBM** for short-term energy load prediction  
 - Leverages **LSTM** for long-term degradation tracking  
