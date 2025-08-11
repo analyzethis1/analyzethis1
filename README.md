@@ -11,7 +11,7 @@ I specialize in:
 
 ## 🔥 Current & Featured Projects
 
-### ✅ [Opal](https://github.com/analyzethis1/Opal)  
+### 💎 [Opal](https://github.com/analyzethis1/Opal)  
 **An AI-powered, client-side charting engine for Apple Business Operations**  
 - Converts CSV/Excel into Apple-level, presentation-ready charts via drag-and-drop
 - Features **Smart Chart Suggestions** with live previews, optimal chart recommendations, and auto-generated titles
@@ -24,7 +24,7 @@ I specialize in:
 - Built with **Streamlit**, with schema explorer, performance analytics, and mock demo mode  
 - One-click deployment, fully tested, and ready for LLM integration
 
-### 🔹 [PropertyPulse](https://github.com/analyzethis1/PropertyPulse)
+### 🤖 [PropertyPulse](https://github.com/analyzethis1/PropertyPulse)
 A full-stack ML system for **real-time energy forecasting** and **equipment maintenance prediction**  
 - Uses **LightGBM** for short-term energy load prediction  
 - Leverages **LSTM** for long-term degradation tracking  
