@@ -36,9 +36,13 @@ A full-stack ML system for **real-time energy forecasting** and **equipment main
 ## 🧰 Skills & Stack
 
 Machine Learning: Time Series Forecasting · Predictive Maintenance · Anomaly Detection
+
 Programming: Python · Bash · TypeScript (frontend tools)
+
 DevOps: Docker · Kubernetes · CI/CD Pipelines · Apple Silicon Optimization
+
 Visualization & App Dev: React + TypeScript · Chart.js · Plotly · Streamlit · Matplotlib
+
 Data Science Stack: Pandas · NumPy · scikit-learn · TensorFlow · LightGBM
 
 ---
@@ -46,7 +50,9 @@ Data Science Stack: Pandas · NumPy · scikit-learn · TensorFlow · LightGBM
 ## 🎯 Goals
 
 📚 Advance expertise in real-time ML and time series modeling
+
 ⚙️ Build tools that fuse ML, UX, and DevOps into seamless, production-ready products
+
 🌍 Contribute to open-source AI projects with real-world impact
 
 ---
