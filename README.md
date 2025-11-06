@@ -1,6 +1,6 @@
 # 👋🏼 About Me
 
-I'm a passionate **AI/ML engineer**, **data scientist**, and **vibe coder** focused on turning raw data into high-impact, interactive products. My work blends **machine learning**, **real-time interfaces**, and **DevOps** to make analytics not just functional but intuitive, scalable, and visually compelling.
+I'm a passionate **AI/ML engineer** and **vibe coder** focused on turning raw data into high-impact, interactive products. My work blends **machine learning**, **real-time interfaces**, and **DevOps** to make analytics not just functional but intuitive, scalable, and visually compelling.
 
 I specialize in:
 - **Time series forecasting** and **predictive maintenance** for real-time decision-making
